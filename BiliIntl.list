@@ -1,7 +1,0 @@
-# 東南亞
-# 說明：修正嗶哩嗶哩規則以確保可同時訪問東南亞、港澳台（或大陸） 但可能導致港澳台（或大陸）的評論區不可視等問題。
-DOMAIN,p-bstarstatic.akamaized.net // 東南亞
-DOMAIN,p.bstarstatic.com // 東南亞
-DOMAIN,upos-bstar-mirrorakam.akamaized.net // 東南亞
-DOMAIN,upos-bstar1-mirrorakam.akamaized.net // 東南亞
-DOMAIN,upos-hz-mirrorakam.akamaized.net // 港澳台
